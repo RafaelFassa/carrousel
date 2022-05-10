@@ -1,0 +1,12 @@
+.img-banner {
+    height: 30rem;
+    min-height: 30rem;
+    max-height: 30rem;
+    width: 100%;
+    object-fit: cover;
+}
+
+#logo {
+    font-size: 7vh;
+    color: white;
+}
